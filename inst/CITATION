@@ -1,0 +1,13 @@
+citHeader("Please cite parade in publications as:")
+
+citEntry(
+  entry="Manual",
+  title = "parade: Pen's Income Parades in R",
+  author = as.person("Marek Hlavac"),
+  year = "2019",
+  note = "R package version 0.1",
+  organization = "Central European Labour Studies Institute (CELSI)",
+  address = "Bratislava, Slovakia",
+  textVersion = "Hlavac, Marek (2019). parade: Pen's Income Parades in R. R package version 0.1. https://CRAN.R-project.org/package=parade",
+  url = "https://CRAN.R-project.org/package=parade"
+)

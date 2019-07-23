@@ -1,0 +1,5 @@
+exportPattern("^[^\\.]")
+importFrom("methods", "is")
+importFrom("graphics", "abline", "barplot")
+importFrom("stats","lm")
+

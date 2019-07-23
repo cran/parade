@@ -1,0 +1,9 @@
+7995aae759f8e2deb55735de6e295ec1 *DESCRIPTION
+2c8dc281900e6102f5eb1eff1816345a *NAMESPACE
+0bd7f63247616758ea993357f72f496e *R/parade-internal.R
+cd1d9d31e4a83b6e9010251b1b182fac *R/parade.R
+f55d6d165f9a3f4e06dfdc187b9bc156 *data/chicago.rda
+67572e17dace2ba40be4ff59f8555585 *inst/CITATION
+048086486d4538ce5b0c66a4722abb63 *inst/ChangeLog
+bca37f7d9846c1dde66e91c55bd7cef4 *man/chicago.Rd
+489b72b96d00015f1a6ebc5f8e336fd6 *man/parade.Rd
